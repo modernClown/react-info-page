@@ -1,0 +1,34 @@
+{
+  "main": {
+    "name": "Демушкин Андрей",
+    "projectname": "Интернет-технологии 2022",
+    "image": "profilepic.jpg",
+    "github": "https://github.com/modernClown/PepeTheProg",
+    "project": "https://github.com/stankin/inet-2022/",
+    "group": "ИДМ-22-08",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/archonhs/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "degree": "Работа с github:",
+        "graduated": "April 2017",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2018 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ]
+  }
+}
