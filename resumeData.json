@@ -1,15 +1,15 @@
 {
   "main": {
-    "name": "Демушкин Андрей",
+    "name": "Лскавян Армен",
     "projectname": "Интернет-технологии 2022",
     "image": "profilepic.jpg",
     "github": "https://github.com/modernClown/PepeTheProg",
     "project": "https://github.com/stankin/inet-2022/",
-    "group": "ИДМ-22-08",
+    "group": "ИДМ-22-04",
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/archonhs/",
+        "url": "https://github.com/modernClown/",
         "className": "fa fa-github"
       }
     ]
